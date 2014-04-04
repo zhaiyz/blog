@@ -6,7 +6,7 @@ description: Sublime Text 3 License
 keywords: ubuntu, sublime, license
 ---
 * 系统：ubuntu 12.04 64位
-* Sublime Text 3：[sublime-text_build-3059_amd64.deb](c758482.r82.cf2.rackcdn.com/sublime-text_build-3059_amd64.deb)
+* Sublime Text 3：[sublime-text_build-3059_amd64.deb](http://c758482.r82.cf2.rackcdn.com/sublime-text_build-3059_amd64.deb)
 * License：
 
 ```
