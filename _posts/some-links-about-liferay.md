@@ -1,9 +1,9 @@
 title: 关于Liferay的一些文章链接
 date: 2014-04-10 21:53:52
 categories: liferay
-tags: [lifeay, links]
+tags: [liferay, links]
 description: 关于Liferay的一些文章链接
-keywords: lifeay, links
+keywords: liferay, links
 ---
 一些与liferay有关的链接。
 1. [liferay官网](http://www.liferay.com/)
