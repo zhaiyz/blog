@@ -1,8 +1,8 @@
-title: <liferay-theme:defineObjects />
+title: liferay-theme defineObjects
 date: 2014-05-04 21:32:39
 categories: liferay
 tags: [liferay, tags]
-description: <liferay-theme:defineObjects />
+description: liferay-theme defineObjects
 keywords: liferay, tags
 ---
 > 在jsp中添加`<liferay-theme:defineObjects />`之后，可以使用的对象。
