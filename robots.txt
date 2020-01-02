@@ -1,6 +1,10 @@
 # hexo robots.txt
 User-agent: *
 Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+Allow: /tags/
 
 Disallow: /vendors/
 Disallow: /js/
@@ -10,3 +14,4 @@ Disallow: /vendors/
 Disallow: /fancybox/
 
 Sitemap: http://zhaiyz.com/sitemap.xml
+Sitemap: http://zhaiyz.com/baidusitemap.xml
